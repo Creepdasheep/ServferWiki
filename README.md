@@ -1,5 +1,19 @@
 
 
+## Quirky Things
+
+The server has multiple custom things about it, for example:
+
+ 1. Stonecutters will kill you
+ 2. You can't run with shears
+ 3. When you die, your items will get placed in a death chest
+ 4. Everything is synced onto the Discord server
+ 5. There is an anti-xray
+ 6. There is an anti-cheat
+ 7. Minecarts go faster
+ 8. The end is closed for right now
+ 9. You can make beer, coffee, and other drinks (Scroll down)
+
 ## Starter Recipes
 
 
